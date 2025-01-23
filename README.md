@@ -41,6 +41,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Autonomous Literature Review</summary>
 
+- [PaSa: An LLM Agent for Comprehensive Academic Paper Search](https://arxiv.org/abs/2501.10120), Yichen He et al., Arxiv, 2025
+
 - [SCILITLLM: HOW TO ADAPT LLMS FOR SCIENTIFIC LITERATURE UNDERSTANDING](https://arxiv.org/pdf/2408.15545), Sihang Li et al., Arxiv, 2024
 
 - [AutoSurvey: Large Language Models Can Automatically Write Surveys](https://arxiv.org/pdf/2406.10252), Wenjin Yao et al., Arxiv, 2024
