@@ -176,7 +176,7 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 bibtex
 @article{zhangautonomous,
   title={Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)},
-  author={Zhang, Pengsong and Pearson, Alfredo and Wang, Zhenting}
+  author={Zhang, Pengsong and Pearson, Alfredo and Wang, Zhenting, Welcome co-authors}
 }
 ```
 ## License
