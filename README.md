@@ -98,6 +98,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Physical, Robot, Experimentation</summary>
 
+- [ORGANA: A Robotic Assistant for Automated Chemistry Experimentation and Characterization](https://arxiv.org/abs/2401.06949), Kourosh Darvish et al., Matter, 2024
+
 - [MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration](https://arxiv.org/abs/2411.08063), Ziqi Ni et al., Arxiv, 2024
 
 - [Autonomous mobile robots for exploratory synthetic chemistry](https://www.nature.com/articles/s41586-024-08173-7), Tianwei Dai et al., Nature, 2024
@@ -150,6 +152,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 - [Towards robot scientists for autonomous scientific discovery](https://doi.org/10.1186%2F1759-4499-2-1), Andrew Sparkes et al., Automated experimentation, 2010
 
 ## News
+
+- [Accelerating Discovery in Natural Science Laboratories with AI and Robotics: Perspectives and Challenges from the 2024 IEEE ICRA Workshop, Yokohama, Japan](https://arxiv.org/abs/2501.06847), Andrew I. Cooper et al., IEEE ICRA Workshop, 2024
 
 - [A new golden age of discovery](https://storage.googleapis.com/deepmind-media/DeepMind.com/Assets/Docs/a-new-golden-age-of-discovery_nov-2024.pdf), Conor Griffin et al., Google DeepMind, 2024
 
