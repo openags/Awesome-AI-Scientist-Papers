@@ -98,6 +98,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Physical, Robot, Experimentation</summary>
 
+- [Augmenting large language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8), Andres M. Bran et al., Nature Machine Intelligence, 2024
+
 - [ORGANA: A Robotic Assistant for Automated Chemistry Experimentation and Characterization](https://arxiv.org/abs/2401.06949), Kourosh Darvish et al., Matter, 2024
 
 - [MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration](https://arxiv.org/abs/2411.08063), Ziqi Ni et al., Arxiv, 2024
