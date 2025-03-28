@@ -25,10 +25,6 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## Papers
 
-- [Towards an AI co-scientist](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf), Juraj Gottweis et al., Google, 2025
-
-- [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227), Samuel Schmidgall et al., Arxiv, 2025
-
 - [Towards Data-Centric Automatic R&D](https://arxiv.org/abs/2404.11276), Haotian Chen et al., Arxiv, 2024
 
 - [Mlr-copilot: Autonomous machine learning research based on large language models agents](https://arxiv.org/pdf/2408.14033), Ruochen Li et al., Arxiv, 2024
@@ -83,6 +79,10 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
+
+- [Towards an AI co-scientist](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf), Juraj Gottweis et al., Google, 2025
+
+- [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227), Samuel Schmidgall et al., Arxiv, 2025
 
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., Arxiv, 2024
 
@@ -177,8 +177,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 ```
 bibtex
 @article{zhangautonomous,
-  title={Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)},
-  author={Zhang, Pengsong and Pearson, Alfredo and Wang, Zhenting, Welcome co-authors}
+  title={Autonomous Generalist Scientist: Towards and Beyond Human-Level Scientific Research with Agentic and Embodied AI and Robots},
+  author={Zhang, Pengsong and Zhang, Heng and Xu, Huazhe and Xu, Renjun and Wang, Zhenting and Wang, Cong and Garg, Animesh and Li, Zhibin and Liu, Xinyu and Ajoudani, Arash}
 }
 ```
 ## License
