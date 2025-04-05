@@ -193,18 +193,18 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 ## Cite
 ```
 bibtex
-@article{zhangautonomous,
-  title={Autonomous Generalist Scientist: Towards and Beyond Human-Level Scientific Research with Agentic and Embodied AI and Robots},
-  author={Zhang, Pengsong and Zhang, Heng and Xu, Huazhe and Xu, Renjun and Wang, Zhenting and Wang, Cong and Garg, Animesh and Li, Zhibin and Liu, Xinyu and Ajoudani, Arash},
-  journal={ResearchGate preprint RG.2.2.35148.01923},
-  year={2024}  
-}
-
 @article{zhang2025scaling,
   title={Scaling Laws in Scientific Discovery with AI and Robot Scientists},
   author={Zhang, Pengsong and Zhang, Heng and Xu, Huazhe and Xu, Renjun and Wang, Zhenting and Wang, Cong and Garg, Animesh and Li, Zhibin and Ajoudani, Arash and Liu, Xinyu},
   journal={arXiv preprint arXiv:2503.22444},
   year={2025}
+}
+
+@article{zhangautonomous,
+  title={Autonomous Generalist Scientist: Towards and Beyond Human-Level Scientific Research with Agentic and Embodied AI and Robots},
+  author={Zhang, Pengsong and Zhang, Heng and Xu, Huazhe and Xu, Renjun and Wang, Zhenting and Wang, Cong and Garg, Animesh and Li, Zhibin and Liu, Xinyu and Ajoudani, Arash},
+  journal={ResearchGate preprint RG.2.2.35148.01923},
+  year={2024}  
 }
 ```
 ## License
