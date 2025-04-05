@@ -8,10 +8,9 @@
 Welcome to the **Awesome AI Scientist Papers** repository! This project aims to curate a collection of important papers to the field of AI/Robot Scientist.
 
 <p align="center">
-  <img src="docs/images/future_timeline.jpg" alt="Futrue timeline">
+  <img src="docs/images/ags-paradigm.jpg" alt="Futrue timeline">
   <br>
-  <em>This timeline illustrates key milestones and future predictions in the development of autonomous AI Scientist and Robot Scientist.</em>
-
+  <em>Scaling Laws in Scientific Discovery with AI and Robot Scientists.</em>
 </p>
 
 ## Table of Contents
@@ -25,13 +24,15 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## Papers
 
+- [Scaling Laws in Scientific Discovery with AI and Robot Scientists](https://arxiv.org/abs/2503.22444), Pengsong Zhang, Heng Zhang et al., Arxiv, 2025
+
 - [Towards Data-Centric Automatic R&D](https://arxiv.org/abs/2404.11276), Haotian Chen et al., Arxiv, 2024
 
 - [Mlr-copilot: Autonomous machine learning research based on large language models agents](https://arxiv.org/pdf/2408.14033), Ruochen Li et al., Arxiv, 2024
 
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., Arxiv, 2024
 
-- [Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)](http://dx.doi.org/10.13140/RG.2.2.35148.01923), Starkson Zhang et al., ResearchGate, 2024 
+- [Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)](http://dx.doi.org/10.13140/RG.2.2.35148.01923), Pengsong Zhang, Heng Zhang et al., ResearchGate, 2024 
 
 - [ChatGPT as Research Scientist: Probing GPT’s capabilities as a Research Librarian, Research Ethicist, Data Generator, and Data Predictor](https://doi.org/10.1073/pnas.2404328121), Steven A. Lehr et al., PNAS, 2024 
 
@@ -57,6 +58,10 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 <details open>
 <summary>Proposal, Idea Generation</summary>
+
+- [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102), Samuel Schmidgall et al., Arxiv, 2025
+
+- [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2503.18102), Samuel Schmidgall et al., Arxiv, 2025
 
 - [An empirical investigation of the impact of ChatGPT on creativity](https://doi.org/10.1038/s41562-024-01953-1), Byung Cheol Lee et al., Nature Human Behaviour, 2024
 
@@ -173,9 +178,22 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [CiteBench: A benchmark for Scientific Citation Text Generation](https://arxiv.org/abs/2212.09577), Martin Funkquist et al., Conference on Empirical Methods in Natural Language Processing, 2022
 
+
+<p align="center">
+  <img src="docs/images/future_timeline.jpg" alt="Futrue timeline">
+  <br>
+  <em>This timeline illustrates key milestones and future predictions in the development of autonomous AI Scientist and Robot Scientist.</em>
+</p>
+
+
 ## Cite
 ```
 bibtex
+@article{zhangautonomous,
+  title={Autonomous Generalist Scientist: Towards and Beyond Human-Level Scientific Research with Agentic and Embodied AI and Robots},
+  author={Zhang, Pengsong and Zhang, Heng and Xu, Huazhe and Xu, Renjun and Wang, Zhenting and Wang, Cong and Garg, Animesh and Li, Zhibin and Liu, Xinyu and Ajoudani, Arash}
+}
+
 @article{zhang2025scaling,
   title={Scaling Laws in Scientific Discovery with AI and Robot Scientists},
   author={Zhang, Pengsong and Zhang, Heng and Xu, Huazhe and Xu, Renjun and Wang, Zhenting and Wang, Cong and Garg, Animesh and Li, Zhibin and Ajoudani, Arash and Liu, Xinyu},
