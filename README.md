@@ -35,7 +35,7 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., Arxiv, 2024
 
-- [Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position)](http://dx.doi.org/10.13140/RG.2.2.35148.01923), Pengsong Zhang, Heng Zhang et al., ResearchGate, 2024 
+- [Autonomous Generalist Scientist: Towards and Beyond Human-Level Scientific Research with Agentic and Embodied AI and Robots](http://dx.doi.org/10.13140/RG.2.2.35148.01923), Pengsong Zhang, Heng Zhang et al., ResearchGate, 2024 
 
 - [ChatGPT as Research Scientist: Probing GPT’s capabilities as a Research Librarian, Research Ethicist, Data Generator, and Data Predictor](https://doi.org/10.1073/pnas.2404328121), Steven A. Lehr et al., PNAS, 2024 
 
@@ -195,7 +195,9 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 bibtex
 @article{zhangautonomous,
   title={Autonomous Generalist Scientist: Towards and Beyond Human-Level Scientific Research with Agentic and Embodied AI and Robots},
-  author={Zhang, Pengsong and Zhang, Heng and Xu, Huazhe and Xu, Renjun and Wang, Zhenting and Wang, Cong and Garg, Animesh and Li, Zhibin and Liu, Xinyu and Ajoudani, Arash}
+  author={Zhang, Pengsong and Zhang, Heng and Xu, Huazhe and Xu, Renjun and Wang, Zhenting and Wang, Cong and Garg, Animesh and Li, Zhibin and Liu, Xinyu and Ajoudani, Arash},
+  journal={ResearchGate preprint RG.2.2.35148.01923},
+  year={2024}  
 }
 
 @article{zhang2025scaling,
