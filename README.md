@@ -1,4 +1,7 @@
+
 # Awesome AI Scientist Papers 
+
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/universea/Awesome-AI-Scientist-Papers)
@@ -10,7 +13,7 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <p align="center">
   <img src="docs/images/ags-paradigm.jpg" alt="Futrue timeline">
   <br>
-  <em>Scaling Laws in Scientific Discovery with AI and Robot Scientists.</em>
+  <em>Scaling Laws in Scientific Discovery with AI Scientists and Robot Scientists.</em>
 </p>
 
 ## Table of Contents
@@ -178,6 +181,7 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [CiteBench: A benchmark for Scientific Citation Text Generation](https://arxiv.org/abs/2212.09577), Martin Funkquist et al., Conference on Empirical Methods in Natural Language Processing, 2022
 
+## Timeline
 
 <p align="center">
   <img src="docs/images/future_timeline.jpg" alt="Futrue timeline">
