@@ -88,6 +88,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [Large language models for scientific discovery in molecular property prediction](https://www.nature.com/articles/s42256-025-00994-z), Yizhen Zheng et al., Nature Machine Intelligence, 2025
+
 - [Towards an AI co-scientist](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf), Juraj Gottweis et al., Google, 2025
 
 - [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227), Samuel Schmidgall et al., Arxiv, 2025
@@ -146,6 +148,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 </details>
 
 ## Survey
+
+- [Large Language Models in Drug Discovery and Development: From Disease Mechanisms to Clinical Trials](https://arxiv.org/abs/2409.04481), Yizhen Zheng et al., Arxiv, 2024
 
 - [Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges](https://arxiv.org/abs/2412.11427), Chandan K Reddy et al., Arxiv, 2024
 
