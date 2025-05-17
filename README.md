@@ -208,7 +208,7 @@ We love connecting with the community to discuss AI and Robot Scientist research
   Scan the QR code or contact an admin (pengsong dot zhang@mail.utoronto.ca) to join:
 
 <p align="center">
-  <img src="docs/images/wechat.jpg" alt="wechat group">
+  <img src="docs/images/wechat.jpg" alt="wechat group"  width="200">
   <br>
   <em>Wechat group.</em>
 </p>
