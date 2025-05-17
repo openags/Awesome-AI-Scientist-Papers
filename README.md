@@ -194,6 +194,39 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 </p>
 
 
+## Discussions
+
+We love connecting with the community to discuss AI and Robot Scientist research, share insights, and collaborate on groundbreaking ideas! Join us on the following platforms:
+
+- **Discord**: Dive into our Discord server to engage in real-time discussions with researchers and enthusiasts worldwide.  
+  [Join Discord](https://discord.gg/6ADEMFsT)
+
+- **Slack**: Connect with us on Slack for professional conversations, paper discussions, and networking with the AI research community.  
+  [Join Slack](https://join.slack.com/t/awesome-ai-scientist/shared_invite/zt-35r3m9jeq-yT48jva9uqfIDDE5GCjoBQ)
+
+- **WeChat Group**: Join our WeChat group  researchers to discuss papers, share updates, and collaborate.  
+  Scan the QR code or contact an admin (pengsong dot zhang@mail.utoronto.ca) to join:
+
+<p align="center">
+  <img src="docs/images/wechat.jpg" alt="wechat group">
+  <br>
+  <em>Wechat group.</em>
+</p>
+
+We’re excited to hear your thoughts and contributions in our community!
+
+## Contributing
+
+We welcome contributions to make this repository a richer resource for the AI and Robot Scientist community! To contribute:
+
+1. **Add Papers**: Suggest new papers by submitting a pull request with the paper’s title, authors, link, and publication details in the appropriate section.
+2. **Enhance Content**: Propose improvements to categories, summaries, or timelines.
+3. **Report Issues**: Open an issue for typos, broken links, or suggestions.
+
+Please follow the [MIT License](LICENSE) and ensure citations are formatted consistently. Check out our [Discussions](#discussions) to connect with the community!
+
+Thank you for helping us advance AI-driven scientific discovery!
+
 ## Cite
 ```
 bibtex
