@@ -223,10 +223,6 @@ We welcome contributions to make this repository a richer resource for the AI an
 2. **Enhance Content**: Propose improvements to categories, summaries, or timelines.
 3. **Report Issues**: Open an issue for typos, broken links, or suggestions.
 
-Please follow the [MIT License](LICENSE) and ensure citations are formatted consistently. Check out our [Discussions](#discussions) to connect with the community!
-
-Thank you for helping us advance AI-driven scientific discovery!
-
 ## Cite
 ```
 bibtex
