@@ -27,13 +27,13 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## Papers
 
-- [Scaling Laws in Scientific Discovery with AI and Robot Scientists](https://arxiv.org/abs/2503.22444), Pengsong Zhang, Heng Zhang et al., Arxiv, 2025
+- [Scaling Laws in Scientific Discovery with AI and Robot Scientists](https://arxiv.org/abs/2503.22444), Pengsong Zhang, Heng Zhang et al., arXiv, 2025
 
-- [Towards Data-Centric Automatic R&D](https://arxiv.org/abs/2404.11276), Haotian Chen et al., Arxiv, 2024
+- [Towards Data-Centric Automatic R&D](https://arxiv.org/abs/2404.11276), Haotian Chen et al., arXiv, 2024
 
-- [Mlr-copilot: Autonomous machine learning research based on large language models agents](https://arxiv.org/pdf/2408.14033), Ruochen Li et al., Arxiv, 2024
+- [Mlr-copilot: Autonomous machine learning research based on large language models agents](https://arxiv.org/pdf/2408.14033), Ruochen Li et al., arXiv, 2024
 
-- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., Arxiv, 2024
+- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., arXiv, 2024
 
 - [Autonomous Generalist Scientist: Towards and Beyond Human-Level Scientific Research with Agentic and Embodied AI and Robots](http://dx.doi.org/10.13140/RG.2.2.35148.01923), Pengsong Zhang, Heng Zhang et al., ResearchGate, 2024 
 
@@ -43,15 +43,15 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Autonomous Literature Review</summary>
 
-- [SurveyX: Academic Survey Automation via Large Language Models](https://arxiv.org/abs/2502.14776), Xun Liang et al., Arxiv, 2025
+- [SurveyX: Academic Survey Automation via Large Language Models](https://arxiv.org/abs/2502.14776), Xun Liang et al., arXiv, 2025
 
-- [PaSa: An LLM Agent for Comprehensive Academic Paper Search](https://arxiv.org/abs/2501.10120), Yichen He et al., Arxiv, 2025
+- [PaSa: An LLM Agent for Comprehensive Academic Paper Search](https://arxiv.org/abs/2501.10120), Yichen He et al., arXiv, 2025
 
-- [SCILITLLM: HOW TO ADAPT LLMS FOR SCIENTIFIC LITERATURE UNDERSTANDING](https://arxiv.org/pdf/2408.15545), Sihang Li et al., Arxiv, 2024
+- [SCILITLLM: HOW TO ADAPT LLMS FOR SCIENTIFIC LITERATURE UNDERSTANDING](https://arxiv.org/pdf/2408.15545), Sihang Li et al., arXiv, 2024
 
-- [AutoSurvey: Large Language Models Can Automatically Write Surveys](https://arxiv.org/pdf/2406.10252), Wenjin Yao et al., Arxiv, 2024
+- [AutoSurvey: Large Language Models Can Automatically Write Surveys](https://arxiv.org/pdf/2406.10252), Wenjin Yao et al., arXiv, 2024
 
-- [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](https://arxiv.org/abs/2409.18812), Hamed Babaei Giglou et al., Arxiv, 2024
+- [LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis](https://arxiv.org/abs/2409.18812), Hamed Babaei Giglou et al., arXiv, 2024
 
 - [PubTator 3.0: an AI-powered literature resource for unlocking biomedical knowledge](https://doi.org/10.1093/nar/gkae235), Chih-Hsuan Wei et al., Nucleic Acids Research, 2024
 
@@ -62,25 +62,25 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Proposal, Idea Generation</summary>
 
-- [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102), Samuel Schmidgall et al., Arxiv, 2025
+- [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102), Samuel Schmidgall et al., arXiv, 2025
 
-- [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2503.18102), Samuel Schmidgall et al., Arxiv, 2025
+- [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2503.18102), Samuel Schmidgall et al., arXiv, 2025
 
 - [An empirical investigation of the impact of ChatGPT on creativity](https://doi.org/10.1038/s41562-024-01953-1), Byung Cheol Lee et al., Nature Human Behaviour, 2024
 
-- [Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas](https://arxiv.org/abs/2410.14255), Xiang Hu et al., Arxiv, 2024
+- [Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas](https://arxiv.org/abs/2410.14255), Xiang Hu et al., arXiv, 2024
 
-- [Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation](https://arxiv.org/pdf/2410.09403), Haoyang Su et al., Arxiv, 2024
+- [Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation](https://arxiv.org/pdf/2410.09403), Haoyang Su et al., arXiv, 2024
 
-- [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109), Chenglei Si et al., Arxiv, 2024
+- [Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers](https://arxiv.org/abs/2409.04109), Chenglei Si et al., arXiv, 2024
 
-- [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://doi.org/10.48550/arXiv.2404.07738), Jinheon Baek et al., Arxiv, 2024
+- [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://doi.org/10.48550/arXiv.2404.07738), Jinheon Baek et al., arXiv, 2024
 
-- [Forecasting high-impact research topics via machine learning on evolving knowledge graphs](https://arxiv.org/abs/2402.08640), Xuemei Gu et al., Arxiv, 2024
+- [Forecasting high-impact research topics via machine learning on evolving knowledge graphs](https://arxiv.org/abs/2402.08640), Xuemei Gu et al., arXiv, 2024
 
-- [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/abs/2311.05965), Biqing Qi et al., Arxiv, 2023
+- [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/abs/2311.05965), Biqing Qi et al., arXiv, 2023
 
-- [SciMON: Scientific Inspiration Machines Optimized for Novelty](https://arxiv.org/abs/2305.14259), Qingyun Wang et al., Arxiv, 2023
+- [SciMON: Scientific Inspiration Machines Optimized for Novelty](https://arxiv.org/abs/2305.14259), Qingyun Wang et al., arXiv, 2023
 
 </details>
 
@@ -88,17 +88,23 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+
+
+
+- [NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification](https://arxiv.org/abs/2505.16938),  Bo Zhang et al., arXiv, 2025
+
+
 - [Large language models for scientific discovery in molecular property prediction](https://www.nature.com/articles/s42256-025-00994-z), Yizhen Zheng et al., Nature Machine Intelligence, 2025
 
 - [Towards an AI co-scientist](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf), Juraj Gottweis et al., Google, 2025
 
-- [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227), Samuel Schmidgall et al., Arxiv, 2025
+- [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227), Samuel Schmidgall et al., arXiv, 2025
 
-- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., Arxiv, 2024
+- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., arXiv, 2024
 
-- [SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning](https://www.arxiv.org/abs/2409.05556), Alireza Ghafarollahi et al., Arxiv, 2024
+- [SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning](https://www.arxiv.org/abs/2409.05556), Alireza Ghafarollahi et al., arXiv, 2024
 
-- [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831), Shanghua Gao et al., Arxiv, 2024
+- [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831), Shanghua Gao et al., arXiv, 2024
 
 - [Intelligent software for laboratory automation](https://doi.org/10.1016/j.tibtech.2004.07.010), Ken E. Whelan et al., Trends in Biotechnology, 2004
 
@@ -112,7 +118,7 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [ORGANA: A Robotic Assistant for Automated Chemistry Experimentation and Characterization](https://arxiv.org/abs/2401.06949), Kourosh Darvish et al., Matter, 2024
 
-- [MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration](https://arxiv.org/abs/2411.08063), Ziqi Ni et al., Arxiv, 2024
+- [MatPilot: an LLM-enabled AI Materials Scientist under the Framework of Human-Machine Collaboration](https://arxiv.org/abs/2411.08063), Ziqi Ni et al., arXiv, 2024
 
 - [Autonomous mobile robots for exploratory synthetic chemistry](https://www.nature.com/articles/s41586-024-08173-7), Tianwei Dai et al., Nature, 2024
 
@@ -128,9 +134,9 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Manuscript</summary>
 
-- [CiteSee: Augmenting Citations in Scientific Papers with Persistent and Personalized Historical Context](https://arxiv.org/abs/2302.07302), Joseph Chee Chang et al., Arxiv, 2023
+- [CiteSee: Augmenting Citations in Scientific Papers with Persistent and Personalized Historical Context](https://arxiv.org/abs/2302.07302), Joseph Chee Chang et al., arXiv, 2023
 
-- [Beyond Summarization: Designing AI Support for Real-World Expository Writing Tasks](https://arxiv.org/abs/2304.02623), Zejiang Shen et al., Arxiv, 2023
+- [Beyond Summarization: Designing AI Support for Real-World Expository Writing Tasks](https://arxiv.org/abs/2304.02623), Zejiang Shen et al., arXiv, 2023
 
 </details>
 
@@ -140,24 +146,24 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [Automated scholarly paper review: Concepts, technologies, and challenges](https://doi.org/10.1016/j.inffus.2023.101830), Jialiang Lin et al., Information Fusion, 2023
 
-- [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://doi.org/10.48550/arXiv.2407.12857), Jianxiang Yu et al., Arxiv, 2024
+- [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://doi.org/10.48550/arXiv.2407.12857), Jianxiang Yu et al., arXiv, 2024
 
-- [MARG: Multi-Agent Review Generation for Scientific Papers](https://arxiv.org/abs/2401.04259), Mike D'Arcy et al., Arxiv, 2024
+- [MARG: Multi-Agent Review Generation for Scientific Papers](https://arxiv.org/abs/2401.04259), Mike D'Arcy et al., arXiv, 2024
 
 
 </details>
 
 ## Survey
 
-- [Large Language Models in Drug Discovery and Development: From Disease Mechanisms to Clinical Trials](https://arxiv.org/abs/2409.04481), Yizhen Zheng et al., Arxiv, 2024
+- [Large Language Models in Drug Discovery and Development: From Disease Mechanisms to Clinical Trials](https://arxiv.org/abs/2409.04481), Yizhen Zheng et al., arXiv, 2024
 
-- [Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges](https://arxiv.org/abs/2412.11427), Chandan K Reddy et al., Arxiv, 2024
+- [Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges](https://arxiv.org/abs/2412.11427), Chandan K Reddy et al., arXiv, 2024
 
-- [Bridging AI and Science: Implications from a Large-Scale Literature Analysis of AI4Science](https://arxiv.org/abs/2412.09628), Yutong Xie et al., Arxiv, 2024
+- [Bridging AI and Science: Implications from a Large-Scale Literature Analysis of AI4Science](https://arxiv.org/abs/2412.09628), Yutong Xie et al., arXiv, 2024
 
 - [Paradigm shifts from data-intensive science to robot scientists](https://doi.org/10.1016/j.scib.2024.09.029), Xin Li et al., Science Bulletin, 2024
 
-- [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/abs/2406.10833), Yu Zhang et al., Arxiv, 2024
+- [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/abs/2406.10833), Yu Zhang et al., arXiv, 2024
 
 - [Artificial Intelligence, Scientific Discovery, and Product Innovation](https://doi.org/10.1186%2F1759-4499-2-1), Toner-Rodgers Aidan, aidantr.github.io, 2024
 
@@ -181,7 +187,7 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 
 ## Benchmark
-- [CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark](https://arxiv.org/pdf/2409.11363v1), Zachary S. Siegel et al., Arxiv, 2024
+- [CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark](https://arxiv.org/pdf/2409.11363v1), Zachary S. Siegel et al., arXiv, 2024
 
 - [CiteBench: A benchmark for Scientific Citation Text Generation](https://arxiv.org/abs/2212.09577), Martin Funkquist et al., Conference on Empirical Methods in Natural Language Processing, 2022
 
