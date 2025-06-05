@@ -90,9 +90,7 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [AI Mathematician: Towards Fully Automated Frontier Mathematical Research](https://arxiv.org/abs/2505.22451),  Yuanhang Liu et al., arXiv, 2025
 
-
 - [NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification](https://arxiv.org/abs/2505.16938),  Bo Zhang et al., arXiv, 2025
-
 
 - [Large language models for scientific discovery in molecular property prediction](https://www.nature.com/articles/s42256-025-00994-z), Yizhen Zheng et al., Nature Machine Intelligence, 2025
 
