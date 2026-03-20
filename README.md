@@ -156,6 +156,7 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [MARG: Multi-Agent Review Generation for Scientific Papers](https://arxiv.org/abs/2401.04259), Mike D'Arcy et al., arXiv, 2024
 
+- [Project Rachel: Can an AI Become a Scholarly Author?](http://arxiv.org/pdf/2511.14819), arXiv 2511.14819, 2025.
 
 </details>
 
