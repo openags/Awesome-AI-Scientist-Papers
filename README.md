@@ -106,6 +106,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227), Samuel Schmidgall et al., arXiv, 2025
 
+- [AIDE: AI-Driven Exploration in the Space of Code](https://arxiv.org/abs/2502.13138), Zhengyao Jiang et al., arXiv, 2025
+
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., arXiv, 2024
 
 - [SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning](https://www.arxiv.org/abs/2409.05556), Alireza Ghafarollahi et al., arXiv, 2024
