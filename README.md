@@ -29,6 +29,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [Democratizing Discovery: How Automated Research Pipelines Make Scientific Innovation Universally Accessible](https://doi.org/10.5281/zenodo.18848462), Euan, Zenodo, 2026
 
+- [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658), Ao Qu, Han Zheng, Zijian Zhou et al., arXiv, 2026
+
 - [Scaling Laws in Scientific Discovery with AI and Robot Scientists](https://arxiv.org/abs/2503.22444), Pengsong Zhang, Heng Zhang et al., arXiv, 2025
 
 - [Towards Data-Centric Automatic R&D](https://arxiv.org/abs/2404.11276), Haotian Chen et al., arXiv, 2024
