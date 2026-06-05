@@ -202,6 +202,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 
 ## Benchmark
+- [REFUTE: Scientific Critique & Epistemic Calibration Benchmark](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 Hugging Face benchmark for calibrated critique of recent science paper summaries. [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md)
+
 - [GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis](https://arxiv.org/abs/2406.15341), Haoyang Liu et al., MLCB, 2025
 
 - [CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark](https://arxiv.org/pdf/2409.11363v1), Zachary S. Siegel et al., arXiv, 2024
