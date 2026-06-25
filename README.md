@@ -94,6 +94,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177), Youran Sun et al., arXiv, 2026
+
 - [AutoZyme: An Autonomous Agentic Framework to Optimize Bioinformatics Software](https://www.biorxiv.org/content/10.64898/2026.06.12.731250v1), Elliot Xie et al., bioRxiv, 2026
 
 - [The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies](https://www.nature.com/articles/s41586-025-09442-9),  Kyle Swanson et al., Nature, 2025
@@ -169,6 +171,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 </details>
 
 ## Survey
+
+- [What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification](https://www.researchgate.net/publication/406952713_What's_Missing_in_Autonomous_Research_A_Systematization_of_SystemsBenchmarks_and_Verification), Xingyu Ren et al., ResearchGate, 2026
 
 - [Synergy of robotics and microfluidics for intelligent micro-and nanomanipulation](https://doi.org/10.1063/5.0275644), Mengmeng Xi, Pengsong Zhang et al., Biomicrofluidics, 2025
 
