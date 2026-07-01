@@ -49,6 +49,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Autonomous Literature Review</summary>
 
+- [BGPT](https://bgpt.pro/mcp/) — MCP + REST API for structured full-text scientific paper search (methods, limitations, COI, quality scores, falsification prompts) for literature intelligence agents. [GitHub](https://github.com/connerlambden/bgpt-mcp) | [Evidence demo](https://github.com/connerlambden/bgpt-mcp/blob/main/EVIDENCE_DEMO.md)
+
 - [SurveyX: Academic Survey Automation via Large Language Models](https://arxiv.org/abs/2502.14776), Xun Liang et al., arXiv, 2025
 
 - [PaSa: An LLM Agent for Comprehensive Academic Paper Search](https://arxiv.org/abs/2501.10120), Yichen He et al., arXiv, 2025
