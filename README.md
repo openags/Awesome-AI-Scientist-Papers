@@ -154,6 +154,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [Beyond Summarization: Designing AI Support for Real-World Expository Writing Tasks](https://arxiv.org/abs/2304.02623), Zejiang Shen et al., arXiv, 2023
 
+- [ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations](https://arxiv.org/abs/2504.00824), Yubo Wang et al., arXiv, 2025
+
 </details>
 
 
