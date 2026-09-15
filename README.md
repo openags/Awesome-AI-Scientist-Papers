@@ -39,7 +39,7 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [Mlr-copilot: Autonomous machine learning research based on large language models agents](https://arxiv.org/pdf/2408.14033), Ruochen Li et al., arXiv, 2024
 
-- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., arXiv, 2024
+- [Towards end-to-end automation of AI research](https://www.nature.com/articles/s41586-026-10265-5), Chris Lu et al., Nature, 2026
 
 - [Autonomous Generalist Scientist: Towards and Beyond Human-Level Scientific Research with Agentic and Embodied AI and Robots](http://dx.doi.org/10.13140/RG.2.2.35148.01923), Pengsong Zhang, Heng Zhang et al., ResearchGate, 2024 
 
@@ -48,6 +48,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 <details open>
 <summary>Autonomous Literature Review</summary>
+
+- [Empowering biomedical evidence exploration and synthesis with deep knowledge graph research](https://www.nature.com/articles/s42256-026-01266-0), Zifeng Wang et al., Nature Machine Intelligence, 2026
 
 - [SurveyX: Academic Survey Automation via Large Language Models](https://arxiv.org/abs/2502.14776), Xun Liang et al., arXiv, 2025
 
@@ -94,11 +96,27 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [Autonomous biomedical research with an artificial intelligence agent](https://www.science.org/doi/10.1126/science.adz4351), Kexin Huang et al., Science, 2026
+
 - [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177), Youran Sun et al., arXiv, 2026
 
 - [AutoZyme: An Autonomous Agentic Framework to Optimize Bioinformatics Software](https://www.biorxiv.org/content/10.64898/2026.06.12.731250v1), Elliot Xie et al., bioRxiv, 2026
 
 - [An AI Co-Data-Scientist for Prioritizing Candidate Biomarkers from Wearable Sensor Data](https://arxiv.org/abs/2604.14615), Yubin Kim et al., arXiv, 2026
+
+- [An AI system to help scientists write expert-level empirical software](https://www.nature.com/articles/s41586-026-10658-6), Eser Aygün et al., Nature, 2026
+
+- [A multi-agent system for automating scientific discovery](https://www.nature.com/articles/s41586-026-10652-y), Ali E. Ghareeb et al., Nature, 2026
+
+- [Accelerating scientific discovery with Co-Scientist](https://www.nature.com/articles/s41586-026-10644-y), Juraj Gottweis et al., Nature, 2026
+
+- [An agentic framework for autonomous scientific discovery in cancer pathology](https://www.nature.com/articles/s41591-026-04357-y), Florian Trost et al., Nature Medicine, 2026
+
+- [Bridging electron microscopy and materials analysis with an autonomous agentic platform](https://www.science.org/doi/10.1126/sciadv.aed0583), Guangyao Chen, Wenhao Yuan, Fengqi You, Science Advances, 2026
+
+- [Towards end-to-end automation of AI research](https://www.nature.com/articles/s41586-026-10265-5), Chris Lu et al., Nature, 2026
+
+- [CellVoyager: AI CompBio agent generates new insights by autonomously analyzing biological data](https://www.nature.com/articles/s41592-026-03029-6), Samuel Alber et al., Nature Methods, 2026
 
 - [The Virtual Lab of AI agents designs new SARS-CoV-2 nanobodies](https://www.nature.com/articles/s41586-025-09442-9),  Kyle Swanson et al., Nature, 2025
 
@@ -112,13 +130,9 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [Large language models for scientific discovery in molecular property prediction](https://www.nature.com/articles/s42256-025-00994-z), Yizhen Zheng et al., Nature Machine Intelligence, 2025
 
-- [Towards an AI co-scientist](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf), Juraj Gottweis et al., Google, 2025
-
 - [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227), Samuel Schmidgall et al., arXiv, 2025
 
 - [AIDE: AI-Driven Exploration in the Space of Code](https://arxiv.org/abs/2502.13138), Zhengyao Jiang et al., arXiv, 2025
-
-- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292), Chris Lu et al., arXiv, 2024
 
 - [SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning](https://www.arxiv.org/abs/2409.05556), Alireza Ghafarollahi et al., arXiv, 2024
 
@@ -131,6 +145,22 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 <details open>
 <summary>Physical, Robot, Experimentation</summary>
+
+- [Interpretable self-driving sputtering epitaxy reveals human-usable growth rules for β-Ga2O3 films](https://www.nature.com/articles/s41467-026-76533-0), Yuki K. Wakabayashi et al., Nature Communications, 2026
+
+- [Rank-guided learning accelerates automated enzyme engineering](https://www.nature.com/articles/s41467-026-76264-2), Jingyi Xu et al., Nature Communications, 2026
+
+- [An agentic artificially intelligent X-ray scientist](https://www.nature.com/articles/s42256-026-01261-5), Zhantao Chen et al., Nature Machine Intelligence, 2026
+
+- [An autonomous lab for data-driven homogeneous catalysis](https://www.nature.com/articles/s41467-026-74425-x), J. A. Bennett et al., Nature Communications, 2026
+
+- [Autonomous microfluidic experimentation for exploring reaction inference and synthesizing double perovskite nanoplatelets](https://www.nature.com/articles/s41467-026-72765-2), Junbin Li et al., Nature Communications, 2026
+
+- [A flexible and affordable self-driving laboratory for automated reaction optimization](https://www.nature.com/articles/s44160-026-01053-0), Simone Pilon et al., Nature Synthesis, 2026
+
+- [Experimental mechanician for plate lattice metamaterial discovery](https://www.nature.com/articles/s41467-026-70675-x), Songtao Hu et al., Nature Communications, 2026
+
+- [Discovery of tunable and soluble organic emitters for solid-state lasers with a self-driving laboratory](https://www.nature.com/articles/s41467-026-69233-2), Hyun Suk Park et al., Nature Communications, 2026
 
 - [Augmenting large language models with chemistry tools](https://www.nature.com/articles/s42256-024-00832-8), Andres M. Bran et al., Nature Machine Intelligence, 2024
 
@@ -173,6 +203,10 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 </details>
 
 ## Survey
+
+- [The past, present and future of self-driving laboratories](https://www.nature.com/articles/s41570-026-00847-2), Richard B. Canty, Milad Abolhasani, Nature Reviews Chemistry, 2026
+
+- [Agentic AI and the rise of in silico team science in biomedical research](https://www.nature.com/articles/s41587-026-03035-1), Binglan Li et al., Nature Biotechnology, 2026
 
 - [What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification](https://www.researchgate.net/publication/406952713_What's_Missing_in_Autonomous_Research_A_Systematization_of_SystemsBenchmarks_and_Verification), Xingyu Ren et al., ResearchGate, 2026
 
