@@ -27,6 +27,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## Papers
 
+- [The AutoResearch Moment: From Experimenter to Research Director](https://www.preprints.org/manuscript/202603.1329), Chaoyue He, Xin Zhou, Di Wang et al., Preprints, 2026
+
 - [AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607), Jianda Du, Youran Sun, Haizhao Yang, arXiv, 2026
 
 - [Democratizing Discovery: How Automated Research Pipelines Make Scientific Innovation Universally Accessible](https://doi.org/10.5281/zenodo.18848462), Euan, Zenodo, 2026
