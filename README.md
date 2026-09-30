@@ -98,6 +98,12 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [Reimagining research papers as interactive and reliable AI agents](https://www.nature.com/articles/s41586-026-11044-y), Jiacheng Miao et al., Nature, 2026
+
+- [A collaborative agent with two lightweight synergistic models for autonomous crystal materials research](https://www.nature.com/articles/s42256-026-01298-6), Tongyu Shi et al., Nature Machine Intelligence, 2026
+
+- [MutexaGPT: an intuition-to-design translator for physics-based enzyme engineering](https://www.nature.com/articles/s43588-026-01049-y), Qianzhen Shao et al., Nature Computational Science, 2026
+
 - [Autonomous biomedical research with an artificial intelligence agent](https://www.science.org/doi/10.1126/science.adz4351), Kexin Huang et al., Science, 2026
 
 - [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177), Youran Sun et al., arXiv, 2026
@@ -250,6 +256,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 
 ## Benchmark
+
+- [AgentIdeaBench: Benchmarking Scientific Ideation in the Agent Era](https://arxiv.org/abs/2609.07611), Yunxiang Mo et al., arXiv, 2026
 - [MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI](https://arxiv.org/abs/2605.08678), Bohan Lyu et al., arXiv, 2026
 
 - [REFUTE: Scientific Critique & Epistemic Calibration Benchmark](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 Hugging Face benchmark for calibrated critique of recent science paper summaries. [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md)
