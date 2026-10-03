@@ -27,6 +27,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## Papers
 
+- [Can AI Scientists Coordinate at Runtime?](https://arxiv.org/abs/2610.00980), Zijian Liu, Yangzhixin Luo, Junyu Lu et al., arXiv, 2026
+
 - [The AutoResearch Moment: From Experimenter to Research Director](https://www.preprints.org/manuscript/202603.1329), Chaoyue He, Xin Zhou, Di Wang et al., Preprints, 2026
 
 - [AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607), Jianda Du, Youran Sun, Haizhao Yang, arXiv, 2026
