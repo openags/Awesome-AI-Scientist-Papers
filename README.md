@@ -106,6 +106,16 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station](https://arxiv.org/abs/2610.08927), Wenyu Du, Stephen Chung, arXiv, 2026
+
+- [Learning to Outgrow a Theory: Experimental Discovery Beyond the Initial Hypothesis Space](https://arxiv.org/abs/2610.07627), SiYuan Ma et al., arXiv, 2026
+
+- [Toward a Locally Deployable Agentic Co-Scientist: Small-Model Planning for Early-Stage Drug Discovery](https://arxiv.org/abs/2610.04740), Tian Liang et al., arXiv, 2026
+
+- [Large language models discover complementary heuristics for combinatorial optimization](https://www.nature.com/articles/s42256-026-01307-8), Huatian Gong et al., Nature Machine Intelligence, 2026
+
+- [How AI Agents Discover Scientific Equations: From Hydrotope Rediscovery to New Water-Wave Amplitudes](https://arxiv.org/abs/2610.00435), Zihan Zhou, Digvijay Wadekar, Matias Zaldarriaga, arXiv, 2026
+
 - [The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development](https://www.science.org/doi/10.1126/science.aeg6779), Harrison G. Zhang et al., Science, 2026
 
 - [Discovering algorithms with computational language processing](https://www.science.org/doi/10.1126/sciadv.aea4216), Théo Bourdais et al., Science Advances, 2026
