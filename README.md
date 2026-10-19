@@ -106,6 +106,10 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery](https://arxiv.org/abs/2610.23845), Shicheng Liu et al., arXiv, 2026
+
+- [Scaling Discovery Requires Forgetting](https://arxiv.org/abs/2610.20563), Shangyin Tan et al., arXiv, 2026
+
 - [Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station](https://arxiv.org/abs/2610.08927), Wenyu Du, Stephen Chung, arXiv, 2026
 
 - [Learning to Outgrow a Theory: Experimental Discovery Beyond the Initial Hypothesis Space](https://arxiv.org/abs/2610.07627), SiYuan Ma et al., arXiv, 2026
@@ -203,6 +207,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 <details open>
 <summary>Physical, Robot, Experimentation</summary>
+
+- [Reinforcement learning guided robotic platform that investigates and discovers asymmetric reactions](https://www.nature.com/articles/s41467-026-78271-9), Patryk Klochowicz et al., Nature Communications, 2026
 
 - [Design of white circularly polarized luminescence with high g<sub>lum</sub> across entire visible regions by dual-loop active learning](https://www.nature.com/articles/s41467-026-77409-z), Peng Yang et al., Nature Communications, 2026
 
@@ -374,6 +380,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 
 ## Benchmark
+
+- [Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery](https://arxiv.org/abs/2610.18449), Yibo Wen, Han Liu, arXiv, 2026
 
 - [Evaluating LLMs' divergent thinking capabilities for scientific idea generation with minimal context](https://www.nature.com/articles/s41467-026-70245-1), Kai Ruan et al., Nature Communications, 2026
 
