@@ -27,6 +27,10 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## Papers
 
+- [AutoSR: Automatic Symbolic Regression by Searching Research States](https://arxiv.org/abs/2608.16876), Kejia Zhang, Youran Sun, Xingyu Ren et al., arXiv, 2026
+
+- [AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](https://arxiv.org/abs/2608.11250), Weicheng Ye, Youran Sun, Xingyu Ren et al., arXiv, 2026
+
 - [Can AI Scientists Coordinate at Runtime?](https://arxiv.org/abs/2610.00980), Zijian Liu, Yangzhixin Luo, Junyu Lu et al., arXiv, 2026
 
 - [The AutoResearch Moment: From Experimenter to Research Director](https://www.preprints.org/manuscript/202603.1329), Chaoyue He, Xin Zhou, Di Wang et al., Preprints, 2026
