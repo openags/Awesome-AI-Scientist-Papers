@@ -106,6 +106,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [The End of Consensus Research?](https://arxiv.org/abs/2610.30114), Clément Burgelin et al., arXiv, 2026
+
 - [AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery](https://arxiv.org/abs/2610.23845), Shicheng Liu et al., arXiv, 2026
 
 - [Scaling Discovery Requires Forgetting](https://arxiv.org/abs/2610.20563), Shangyin Tan et al., arXiv, 2026
@@ -207,6 +209,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 <details open>
 <summary>Physical, Robot, Experimentation</summary>
+
+- [Chemistry-infused bandit framework for interpretable autonomous campaign of electrocatalysis](https://www.nature.com/articles/s41467-026-78335-w), Yi-An Lai et al., Nature Communications, 2026
 
 - [Reinforcement learning guided robotic platform that investigates and discovers asymmetric reactions](https://www.nature.com/articles/s41467-026-78271-9), Patryk Klochowicz et al., Nature Communications, 2026
 
