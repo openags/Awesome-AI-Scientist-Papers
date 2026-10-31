@@ -27,6 +27,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 ## Papers
 
+- [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://arxiv.org/abs/2504.16918), Raghav Thind, Youran Sun, Ling Liang et al., arXiv, 2025
+
 - [AutoSR: Automatic Symbolic Regression by Searching Research States](https://arxiv.org/abs/2608.16876), Kejia Zhang, Youran Sun, Xingyu Ren et al., arXiv, 2026
 
 - [AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](https://arxiv.org/abs/2608.11250), Weicheng Ye, Youran Sun, Xingyu Ren et al., arXiv, 2026
@@ -390,6 +392,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 
 ## Benchmark
+
+- [SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082), Youran Sun, Xingyu Ren, Chugang Yi et al., arXiv, 2026
 
 - [Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery](https://arxiv.org/abs/2610.18449), Yibo Wen, Han Liu, arXiv, 2026
 
