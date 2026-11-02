@@ -112,6 +112,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [El Agente Quntur: Agentic Active-Space Selection for CASSCF](https://arxiv.org/abs/2610.38145), Juan B. Pérez-Sánchez et al., arXiv, 2026
+
 - [The End of Consensus Research?](https://arxiv.org/abs/2610.30114), Clément Burgelin et al., arXiv, 2026
 
 - [AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery](https://arxiv.org/abs/2610.23845), Shicheng Liu et al., arXiv, 2026
