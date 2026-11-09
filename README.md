@@ -112,6 +112,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [El Agente Fármaco: A Scalable AI Scientist for Drug Discovery](https://arxiv.org/abs/2611.03832), Marcel Müller et al., arXiv, 2026
+
 - [El Agente Quntur: Agentic Active-Space Selection for CASSCF](https://arxiv.org/abs/2610.38145), Juan B. Pérez-Sánchez et al., arXiv, 2026
 
 - [The End of Consensus Research?](https://arxiv.org/abs/2610.30114), Clément Burgelin et al., arXiv, 2026
@@ -394,6 +396,10 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 
 ## Benchmark
+
+- [Scientist World: Grow a Research World for AI-Scientists](https://arxiv.org/abs/2611.08478), Taiming Lu, Sachin Konan, Zhuang Liu, arXiv, 2026
+
+- [Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark](https://arxiv.org/abs/2611.05459), Abdullah Al Kalbani et al., arXiv, 2026
 
 - [SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082), Youran Sun, Xingyu Ren, Chugang Yi et al., arXiv, 2026
 
