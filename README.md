@@ -412,6 +412,9 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 - [Assessing AI's cognitive abilities for scientific discovery in the field of systems vaccinology](https://www.science.org/doi/10.1126/sciimmunol.adx1794), Lucie Rodriguez-Coffinet et al., Science Immunology, 2025
 
 - [AgentIdeaBench: Benchmarking Scientific Ideation in the Agent Era](https://arxiv.org/abs/2609.07611), Yunxiang Mo et al., arXiv, 2026
+
+- [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878), Youran Sun, Xingyu Ren, Kejia Zhang et al., arXiv, 2026
+
 - [MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI](https://arxiv.org/abs/2605.08678), Bohan Lyu et al., arXiv, 2026
 
 - [REFUTE: Scientific Critique & Epistemic Calibration Benchmark](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 Hugging Face benchmark for calibrated critique of recent science paper summaries. [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md)
