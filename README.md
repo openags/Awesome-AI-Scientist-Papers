@@ -82,6 +82,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Proposal, Idea Generation</summary>
 
+- [The Alien Space of Science: Sampling Coherent but Cognitively Unavailable Research Directions](https://arxiv.org/abs/2603.01092), Alejandro H. Artiles, Martin Weiss, Levin Brinkmann et al., NeurIPS, 2026
+
 - [XunZi, an AI biologist, reveals disease-modifying targets](https://www.nature.com/articles/s41551-026-01769-6), Xinhe Huang et al., Nature Biomedical Engineering, 2026
 
 - [Predicting new research directions in materials science using large language models and concept graphs](https://www.nature.com/articles/s42256-026-01206-y), Thomas Marwitz et al., Nature Machine Intelligence, 2026
