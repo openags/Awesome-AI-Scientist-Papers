@@ -114,6 +114,8 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 <details open>
 <summary>Virtual, Digital, Agent, Experimentation</summary>
 
+- [Interpretable weight-space programming builds transparent transformers and brain encoding models](https://arxiv.org/abs/2611.18114), Yash Mehta et al., arXiv, 2026
+
 - [El Agente Fármaco: A Scalable AI Scientist for Drug Discovery](https://arxiv.org/abs/2611.03832), Marcel Müller et al., arXiv, 2026
 
 - [El Agente Quntur: Agentic Active-Space Selection for CASSCF](https://arxiv.org/abs/2610.38145), Juan B. Pérez-Sánchez et al., arXiv, 2026
