@@ -378,8 +378,6 @@ Welcome to the **Awesome AI Scientist Papers** repository! This project aims to 
 
 - [A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery](https://arxiv.org/abs/2406.10833), Yu Zhang et al., arXiv, 2024
 
-- [Artificial Intelligence, Scientific Discovery, and Product Innovation](https://doi.org/10.1186%2F1759-4499-2-1), Toner-Rodgers Aidan, aidantr.github.io, 2024
-
 - [AI for Science: AI enabled scientific facility transforms fundamental research](https://bulletinofcas.researchcommons.org/journal/vol39/iss1/8/), Xiaokang Yang, Bulletin of Chinese Academy of Sciences, 2024
 
 - [Towards robot scientists for autonomous scientific discovery](https://doi.org/10.1186%2F1759-4499-2-1), Andrew Sparkes et al., Automated experimentation, 2010
